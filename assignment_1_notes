@@ -1,0 +1,29 @@
+Assistive technology - assignment 1 ( Non cloud based system )
+
+	- virtualiztion is allowed.
+	- deploy application on server 
+	- can have n number of servers
+
+	- handle documents of users ( document management system <metadata> ) can have different formats of files.
+	- locally hosted document management systems
+	- design a architecture with handling high sensitive documents in mind
+
+
+Assistive Technology:
+====================
+
+	Practical tool that can enable people with disabilities and older people to maximise their independence.
+
+	eg: screen reading software
+inde
+	So This s/w helps in students/employees to directly apply for assitive funding for themselves
+
+
+Requirements:
+============
+
+	-> User logs in to application and background check will be done on user regarding their disability if they are true an account will be created by giving them alert in email or something.
+
+	
+
+
